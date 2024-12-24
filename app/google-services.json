@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "450601629681",
+    "firebase_url": "https://astro-app-94d6e-default-rtdb.firebaseio.com",
+    "project_id": "astro-app-94d6e",
+    "storage_bucket": "astro-app-94d6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450601629681:android:b3c62ec5c2212289e47650",
+        "android_client_info": {
+          "package_name": "com.example.astroshopenligne"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPyQHrZqhfkguIXNOCSeHVsWibm77jCZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450601629681:android:fc1bd1c444bbb128e47650",
+        "android_client_info": {
+          "package_name": "com.example.onligneshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPyQHrZqhfkguIXNOCSeHVsWibm77jCZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450601629681:android:1ef1775dc7fd1893e47650",
+        "android_client_info": {
+          "package_name": "com.light.foodastroapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPyQHrZqhfkguIXNOCSeHVsWibm77jCZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
